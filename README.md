@@ -1,2 +1,2 @@
 # ddns
-A self-hosted dynamic domain name service (DDNS) including light weight and fast Docker image.
+A self-hosted light-weight and fast dynamic domain name service (DDNS) including Docker image.
